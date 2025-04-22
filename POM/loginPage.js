@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import Locators from '../POM/locators'
+=======
+const Locators =  require('../POM/locators')
+>>>>>>> fd76bf5e (Initial commit)
 const {Creds} = require('../POM/data');
 class Login {
 
@@ -19,4 +23,8 @@ class Login {
      }
 
 }
+<<<<<<< HEAD
 export default Login
+=======
+module.exports = Login
+>>>>>>> fd76bf5e (Initial commit)
