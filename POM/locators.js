@@ -65,4 +65,8 @@ class Locators {
 
 
 }
+<<<<<<< HEAD
 export default new Locators()
+=======
+module.exports = new Locators()
+>>>>>>> fd76bf5e (Initial commit)

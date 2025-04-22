@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import Login from '../../POM/loginPage'
+=======
+const Login = require('../../POM/loginPage.js')
+>>>>>>> fd76bf5e (Initial commit)
 const login = new Login()
 
 
